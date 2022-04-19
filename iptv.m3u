@@ -1,22 +1,15 @@
 #EXTM3U 
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="Noticias", Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
 #EXTINF: -1 tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="Noticias", BBC News HD (720p)
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/32cS4J3.png" group-title="Videogame", Treehouse Gaming Network 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=209
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/32cS4J3.png" group-title="Videogame", Treehouse Gaming Network 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=234
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/32cS4J3.png" group-title="Videogame", Treehouse Gaming Network 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=607
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JOc4SVF.png" group-title="Videogame", Videogame Teste 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=38
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JOc4SVF.png" group-title="Videogame", Videogame Nome Ficticio 3 (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=39
